@@ -1,2 +1,2 @@
-# Database
-Creating an example store's databasese
+# Database project
+Creating an example store's database
